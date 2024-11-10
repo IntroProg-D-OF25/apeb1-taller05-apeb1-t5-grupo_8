@@ -19,5 +19,6 @@ public class Ejercicio1_EdadVotar {
     }
 }
 /***
- * 
+ * DAME UNA EDAD: 19
+ * VOTA
  */
