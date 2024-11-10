@@ -34,8 +34,8 @@ public class Ejercicio12_Calculo_de_mpuestos {
                 return; 
         }
         precioVenta = costo + impuesto;
-        System.out.printf("Impuesto por pagar: %.2f%n", impuesto);
-        System.out.printf("Precio de venta (incluido el impuesto): %.2f%n", precioVenta);
+        System.out.printf("Impuesto por pagar: ", impuesto);
+        System.out.printf("Precio de venta (incluido el impuesto): ", precioVenta);
     }
 }
 /***
@@ -66,6 +66,4 @@ public class Ejercicio12_Calculo_de_mpuestos {
  * Ingrese el costo del automóvil: 15000
  * Impuesto por pagar: 3000,00
  * Precio de venta (incluido el impuesto): 18000,00
- * *******************************************************************
- * SI ES QUE NO SE ENCUENTRA UN PAIS
  */
